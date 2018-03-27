@@ -1,0 +1,4 @@
+﻿  Main.cpp
+d:\hoctap\c++\chatlan\server\main.cpp(108): error C2440: 'static_cast': cannot convert from 'const char [13]' to 'LPCTSTR'
+  d:\hoctap\c++\chatlan\server\main.cpp(108): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+d:\hoctap\c++\chatlan\server\main.cpp(84): fatal error C1075: the left brace '{' was unmatched at the end of the file
