@@ -1,4 +1,0 @@
-﻿  Main.cpp
-d:\hoctap\c++\chatlan\client\main.cpp(132): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-  Client.vcxproj -> D:\Hoctap\C++\ChatLAN\x64\Debug\Client.exe
-  Client.vcxproj -> D:\Hoctap\C++\ChatLAN\x64\Debug\Client.pdb (Full PDB)

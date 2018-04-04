@@ -1,7 +1,0 @@
-﻿  Main.cpp
-d:\hoctap\c++\chatlan\server\main.cpp(53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-d:\hoctap\c++\chatlan\server\main.cpp(70): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-d:\hoctap\c++\chatlan\server\main.cpp(164): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-d:\hoctap\c++\chatlan\server\main.cpp(172): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-  Server.vcxproj -> D:\Hoctap\C++\ChatLAN\x64\Debug\Server.exe
-  Server.vcxproj -> D:\Hoctap\C++\ChatLAN\x64\Debug\Server.pdb (Full PDB)
